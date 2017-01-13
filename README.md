@@ -2,7 +2,7 @@
 
 Este es un proyecto de prueba del curso IS2, ciclo 2017-0
 
-## TEcnologías utilizadas
+## Tecnologías utilizadas
 
 - Block de Notas
 - GIT
